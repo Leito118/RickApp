@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9c708be42412723ed9f5",
+    "revision": "acfe25c8a574c666f767",
     "url": "/RickApp/static/css/main.e2ce6f30.chunk.css"
   },
   {
-    "revision": "9c708be42412723ed9f5",
-    "url": "/RickApp/static/js/main.c5221ffe.chunk.js"
+    "revision": "acfe25c8a574c666f767",
+    "url": "/RickApp/static/js/main.98dcdf7f.chunk.js"
   },
   {
     "revision": "62b41b906182eac0ad0f",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/RickApp/static/media/persik.4e1ec840.png"
   },
   {
-    "revision": "012327acc10da374c3d438f48d299292",
+    "revision": "8919f9df427824e3f7f54dc3e19fc7c8",
     "url": "/RickApp/index.html"
   }
 ];
