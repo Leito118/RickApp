@@ -9,6 +9,9 @@ import App from './App';
 // Init VK App
 connect.send('VKWebAppInit', {});
 
+//Init VK App Friends
+connect.send("VKWebAppGetFriends", {});
+
 // Если вы хотите, чтобы ваше веб-приложение работало в оффлайне и загружалось быстрее,
 // расскомментируйте строку с registerServiceWorker();
 // Но не забывайте, что на данный момент у технологии есть достаточно подводных камней
